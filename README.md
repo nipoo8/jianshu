@@ -1,4 +1,8 @@
-其他功能还在完善中
+其他功能还在完善中...
+配合react-router4, react-reudx 开发。
+整体数据用Immutable.js管理,保证数据的不可变性。
+样式采用styled-components,保证组件样式的唯一性。
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
