@@ -1,4 +1,4 @@
-##其他功能还在完善中
+其他功能还在完善中
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
