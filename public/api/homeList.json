@@ -1,0 +1,61 @@
+{
+    "success": true,
+    "data": {
+        "topicList": [
+            {
+                "id": 1,
+                "title": "社会热点",
+                "imgUrl": "http://pic1.win4000.com/wallpaper/9/5450ae2fdef8a.jpg"
+            },
+            {
+                "id": 2,
+                "title": "手绘",
+                "imgUrl": "http://k.zol-img.com.cn/sjbbs/7692/a7691515_s.jpg"
+            }
+        ],
+        "articleList": [
+            {
+                "id": 1,
+                "title": "尝试咬一口黑白苹果的市场",
+                "desc": "啥是黑苹果？百度一下你就能够找到非常准确的解释。 有些词是被创造出来的，不代表这样的词就是一定存在的，概念上要先搞清楚。黑苹果其实就是在部分in...",
+                "imgUrl": "//upload-images.jianshu.io/upload_images/16326209-1829e74a2e26faf7.png?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+            },
+            {
+                "id": 2,
+                "title": "测测你的气质类型",
+                "desc": "最近在学习绘画心理学，了解到一些心理学的测量方法：四种气质类型：胆汁质、多血质、粘液质、抑郁质，这是古希腊医生希波格拉底提出的；分别影响着...",
+                "imgUrl": "//upload-images.jianshu.io/upload_images/2763090-39dcd3bb8b012158.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+            },
+            {
+                "id": 3,
+                "title": "女人50岁以后如何看待夫妻生活？过来人说出了心里话",
+                "desc": "悟空导语： 夫妻生活是婚姻生活重要的组成部分，人们不在不同的年龄对于夫妻生活的渴求是不一样的，不同的性别对于夫妻生活的需求也会有所不同。在大部分...",
+                "imgUrl": "//upload-images.jianshu.io/upload_images/14938882-30bdf674969b16cf.jpeg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+            },
+            {
+                "id": 4,
+                "title": "你先是一个学生然后才是一个老师",
+                "desc": "品读了《致青年教师》中“你愿意到我办公室玩吗”“教学楼里有多少洗手间”这两节，问题虽然看似简单，其实却有着很重要的反思意义。吴非老师写到...",
+                "imgUrl": "//upload-images.jianshu.io/upload_images/14950149-1686254f908155e2.JPG?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+            }
+        ],
+        "recommendList": [
+            {
+                "id": 1,
+                "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+            },
+            {
+                "id": 2,
+                "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+            },
+            {
+                "id": 3,
+                "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+            },
+            {
+                "id": 4,
+                "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,4 @@
+export const CHANGE_HOME_DATA = 'CHANGE_HOME_DATA';
+export const HOME_MORE_LIST = 'HOME_MORE_LIST';
+export const TOGGLE_SCROLLTOP = 'TOGGLE_SCROLLTOP';
+export const WRITER_LIST = 'WRITER_LIST';
